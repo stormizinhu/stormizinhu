@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stormizinhu
 - 👀 I’m interested in Games and Music
-- 🌱 I’m currently learning HTML, CSS, JS, Git, SQL
+- 🌱 I’m currently learning HTML, CSS, JS, Git, GitHub, NodeJS, API Rest, SQL
 - 💞️ I’m looking to collaborate on streaming widgets
 - 📫 How to reach me ...
 
