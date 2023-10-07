@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as&label=Profile%20views&color=0e75b6&style=flat" alt="as" /></p>
 
 ## Olá, eu sou o Bruno "Stormizinhu" Mocellin, Músico, Streamer e agora Programador!
+https://stormizinhu.github.io/landing-page/
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stormizinhu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
