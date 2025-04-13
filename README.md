@@ -3,7 +3,7 @@
 ## Hi, I'm Bruno "Stormizinhu" Mocellin, Musician, Streamer and Developer!
 https://stormizinhu.github.io/landing-page/
 
-<div align="center">
+<div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormizinhu&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
