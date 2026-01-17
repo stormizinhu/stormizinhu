@@ -94,7 +94,7 @@ https://stormizinhu.github.io/landing-page/
 <div align="left">
 <img alt="OBS Studio" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/250px-OBS_Studio_Logo.svg.png" />
 <img alt="StreamElements" height="30" src="https://support.streamelements.com/hc/theming_assets/01JCE135V2WDV9NQHHARY3W9VR" />
-<img alt="Streamer.bot" height="30" src="https://mp-cdn.elgato.com/media/5c942a07-4bf6-4207-a2f2-f8599c398f2a/Streamer.Bot-app-icon-optimized-0f8a816d-5d7d-4033-93bc-1341fb5d9135.png" />
+<img alt="Streamer.bot" height="30" src="https://streamer.bot/logo.svg" />
 <img alt="Stream Deck" height="30" src="https://assets.emailinspire.com/brands/4sbq5uh65zh.jpg" />
 <img alt="Discord" height="30" src="https://cdn.simpleicons.org/discord/5865F2" />
 <img alt="Twitch" height="30" src="https://cdn.simpleicons.org/twitch/9146FF" />
